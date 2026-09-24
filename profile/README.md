@@ -17,4 +17,5 @@
 西安电子科技大学，[多维智能实验室 XI-Lab](https://xi-lab-xdu.github.io/)，负责人：杨曦 教授
 
 🧙 The lab works on frontier problems in artificial intelligence, spanning intelligent analysis of multi-source data, 4D scene generation and understanding, embodied intelligence and agents, and intelligent perception of remote sensing targets.
-<img width="4104" height="690" alt="xi-lib-logo-black2" src="https://github.com/user-attachments/assets/ae38f401-0b83-4b7f-b46f-3fe3784a8e4d" />
+<img width="4104" height="690" alt="xi-lib-logo-black2" src="https://github.com/user-attachments/assets/850455f7-6488-467e-a0a3-48b78273069d" />
+
