@@ -12,8 +12,8 @@
 -->
 🙋‍♀️ X-Dimensional Intelligence Lab(XI-Lab), directed by Prof. Xi Yang, is at Xidian University (XDU).
 
-👩‍💻 The homepage of our Lab is https://iip-xdu.github.io/.
+👩‍💻 The homepage of our Lab is [https://xi-lab-xdu.github.io/](https://xi-lab-xdu.github.io/).
 
-西安电子科技大学，多维智能实验室 XI-Lab，负责人：杨曦 教授
+西安电子科技大学，[多维智能实验室 XI-Lab](https://xi-lab-xdu.github.io/)，负责人：杨曦 教授
 
 🧙 The lab works on frontier problems in artificial intelligence, spanning intelligent analysis of multi-source data, 4D scene generation and understanding, embodied intelligence and agents, and intelligent perception of remote sensing targets.
